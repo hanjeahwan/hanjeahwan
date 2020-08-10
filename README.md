@@ -6,6 +6,7 @@ This is the place where I break things :rofl:
 - 💬 Ask me about anything related to Javascript/Typescript/Html/Css
 - 📫 How to reach me: [hanjeahwan](https://twitter.com/dev_hanjeahwan)
 - ⚡ Fun fact: I :heart: KPOP
+---
 
 #### 📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
@@ -13,10 +14,11 @@ This is the place where I break things :rofl:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+---
 
 #### 📈 **Github Stats**
-
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hanjeahwan&show_icons=true&count_private=true&hide_title=true)](https://github.com/hanjeahwan)
+---
 
 #### 🤟 **Mostly Used Languages**
 
