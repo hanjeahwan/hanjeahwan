@@ -20,10 +20,9 @@ No Activity tracked this Week
 
 <br />
 
-📈 **Github Stats**
-[<img align="left" alt="hanjeahwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hanjeahwan&show_icons=true&count_private=true&hide_title=true" />]
 
-<br />
+### Demo
 
-🤟 **Mostly Used Languages**
-[<img align="left" alt="hanjeahwan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjeahwan&layout=compact&hide_title=true" />]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjeahwan&layout=compact&hide_title=true)](https://github.com/hanjeahwan)
+
+---
