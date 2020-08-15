@@ -22,7 +22,7 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-#### 📊 **Recent Activity**
+#### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 ---
