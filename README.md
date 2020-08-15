@@ -22,11 +22,6 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-#### ⚡ **Recent Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-
 #### 🔧 **Technologies & Tools**
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=#0078D6&color=white)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=#007ACC&color=white)
@@ -57,3 +52,9 @@ Markdown     26 mins         ░░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjeahwan&layout=compact&hide_title=true)](https://github.com/hanjeahwan)
 
+---
+
+#### ⚡ **Recent Activity**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+---
