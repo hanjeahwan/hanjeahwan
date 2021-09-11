@@ -6,7 +6,7 @@ This is the place where I break things :rofl:
 - 🔭 I’m currently working on Angular and APIs
 - 🌱 I’m currently learning something interesting
 - 💬 Ask me about anything related to Javascript/Typescript/Html/Css
-- 📫 How to reach me: [hanjeahwan](https://twitter.com/dev_hanjeahwan)
+- 📫 How to reach me: [hanjeahwan](https://twitter.com/hanjeahwan_dev)
 - ⚡ Fun fact: I :heart: KPOP
 ---
 
