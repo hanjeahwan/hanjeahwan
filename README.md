@@ -13,7 +13,7 @@ This is the place where I break things :rofl:
 #### 📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
-YAML       3 mins          █████████████████████░░░░   84.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
