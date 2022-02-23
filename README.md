@@ -13,7 +13,8 @@ This is the place where I break things :rofl:
 #### 📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   23 mins         ███████████████████████▓░   95.14 % 
+HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 <!--END_SECTION:waka-->
 ---
