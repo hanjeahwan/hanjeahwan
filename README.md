@@ -3,8 +3,8 @@
 ### Hi There, I'm Hanjeahwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is the place where I break things :rofl:
-- 🔭 I’m currently working on Angular and APIs
-- 🌱 I’m currently learning something interesting
+- 🔭 I’m currently using Angular, React and Vuejs build different enterprise web application
+- 🌱 I’m currently learning Threejs and Web 3.0
 - 💬 Ask me about anything related to Javascript/Typescript/Html/Css
 - 📫 How to reach me: [hanjeahwan](https://twitter.com/hanjeahwan_dev)
 - ⚡ Fun fact: I :heart: KPOP
