@@ -14,10 +14,11 @@ This is the place where I break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   36 mins         ███████████████████████░░   91.35 %
-HTML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-LESS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   2 hrs 6 mins    ███████████████▓░░░░░░░░░   62.07 %
+HTML         1 hr 14 mins    █████████░░░░░░░░░░░░░░░░   36.66 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+LESS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
