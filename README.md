@@ -14,9 +14,10 @@ This is the place where I break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 49 mins   ███████████████▒░░░░░░░░░   60.98 %
-HTML         5 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.17 %
-LESS         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+TypeScript   7 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.89 %
+HTML         5 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.38 %
+LESS         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
