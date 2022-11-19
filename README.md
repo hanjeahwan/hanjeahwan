@@ -15,7 +15,7 @@ This is the place where I break things :rofl:
 
 ```text
 TypeScript   11 hrs 11 mins  █████████████████▒░░░░░░░   69.97 %
-HTML         3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+HTML         3 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
 LESS         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
