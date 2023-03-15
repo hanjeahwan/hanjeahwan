@@ -14,10 +14,12 @@ This is the place where I break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 15 mins   ██████████████████▓░░░░░░   75.29 %
-JSON         1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-YAML         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TypeScript   6 hrs 40 mins   ████████████████▓░░░░░░░░   66.51 %
+JSON         1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+YAML         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+HTML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+LESS         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
