@@ -1,4 +1,4 @@
-
+![Header](https://github.com/hanjeahwan/hanjeahwan/raw/master/shiba-se.jpg "Header")
 ### Hi There, I'm Hanjeahwan
 This is the place where I break things :rofl:
 - 🔭 I’m currently using Angular, React and Vuejs build different enterprise web application
