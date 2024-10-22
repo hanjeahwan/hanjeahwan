@@ -1,11 +1,9 @@
-[![Header](https://github.com/hanjeahwan/hanjeahwan/raw/master/iu.gif "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/hanjeahwan/hanjeahwan/raw/master/shiba-dev.jpg "Header")](https://martinheinz.dev/)
 ### Hi There, I'm Hanjeahwan
 This is the place where I break things :rofl:
 - 🔭 I’m currently using Angular, React and Vuejs build different enterprise web application
-- 🌱 I’m currently learning Threejs and Web 3.0
 - 💬 Ask me about anything related to Javascript/Typescript/Html/Css
 - 📫 How to reach me: [hanjeahwan](https://twitter.com/hanjeahwan_dev)
-- ⚡ Fun fact: I :heart: KPOP
 
 ---
 
