@@ -14,7 +14,11 @@ This is the place where I break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   8 hrs 44 mins   ██████████████████▓░░░░░░   74.63 %
+HTML         1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Other        39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Less         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
