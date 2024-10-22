@@ -1,27 +1,24 @@
 [![Header](https://github.com/hanjeahwan/hanjeahwan/raw/master/iu.gif "Header")](https://martinheinz.dev/)
-
 ### Hi There, I'm Hanjeahwan
-
 This is the place where I break things :rofl:
 - 🔭 I’m currently using Angular, React and Vuejs build different enterprise web application
 - 🌱 I’m currently learning Threejs and Web 3.0
 - 💬 Ask me about anything related to Javascript/Typescript/Html/Css
 - 📫 How to reach me: [hanjeahwan](https://twitter.com/hanjeahwan_dev)
 - ⚡ Fun fact: I :heart: KPOP
+
 ---
 
-#### 📊 **This Week I Spent My Time On**
-<!--START_SECTION:waka-->
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codeartz&hide_progress=true)
 
-```txt
-TypeScript   8 hrs 44 mins   ██████████████████▓░░░░░░   74.63 %
-HTML         1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Other        39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Less         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-```
+---
 
-<!--END_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api?username=hanjeahwan&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjeahwan)
+
 ---
 
 #### 🔧 **Technologies & Tools**
@@ -42,17 +39,3 @@ JSON         22 mins         ▓░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=#CB3837&color=white)
 ![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=circleci&logoColor=#343434&color=white)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=#232F3E&color=white)
-
----
-
-#### 📈 **Github Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hanjeahwan&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)](https://github.com/hanjeahwan)
-
----
-
-#### 🤟 **Mostly Used Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjeahwan&layout=compact&hide_title=true)](https://github.com/hanjeahwan)
-
----
-
