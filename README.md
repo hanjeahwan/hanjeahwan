@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Product engineer building agent workflows and reliable software systems.</strong><br>
-  <sub>把反复出现的工程摩擦，沉淀成可复用的工具、规则与工作方式。</sub>
+  <sub>Turning recurring engineering friction into reusable tools, rules, and ways of working.</sub>
 </p>
 
 <p align="center">
@@ -21,14 +21,13 @@ I work where product engineering, AI agents, and developer experience meet. I ca
 
 Right now, most of that thinking lives in [Codeartz Skills](https://github.com/hanjeahwan/codeartz-skills), a Chinese-first collection of focused Agent Skills extracted from real engineering collaboration problems.
 
-## Selected work
+## Projects
 
 | Project | Why it exists |
 | --- | --- |
 | [**Codeartz Skills**](https://github.com/hanjeahwan/codeartz-skills) | Reusable Agent Skills for unclear intent, mixed requirements, missing project knowledge, unreliable instruction manuals, and feedback that should improve future decisions. |
+| [**Codeartz Illustrations**](https://github.com/hanjeahwan/codeartz-illustrations) | A Codeartz AI Cat illustration skill for turning Chinese articles, workflows, and ideas into clean hand-drawn visual explanations. |
 | [**Green Energy City**](https://github.com/hanjeahwan/green-energy-city) | An interactive 3D energy-operations cockpit built with React, TypeScript, and Three.js, with explicit layout contracts and automated spatial verification. |
-| [**Lark AI Bot**](https://github.com/hanjeahwan/LarkAIBot) | A production-oriented Lark AI adapter with streaming replies, durable conversation memory, and hybrid Confluence retrieval. |
-| [**WHED Crawler**](https://github.com/hanjeahwan/whed-crawler) | Tooling around the Worldwide Higher Education Database, built to turn a difficult public data source into something developers can work with. |
 
 ## How I work
 
