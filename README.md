@@ -25,6 +25,7 @@ Right now, most of that thinking lives in [Codeartz Skills](https://github.com/h
 
 | Project | Why it exists |
 | --- | --- |
+| [**ChatGPT Pro Collab**](https://github.com/hanjeahwan/chatgpt-pro) | A bidirectional collaboration skill connecting local agents with ChatGPT Pro on the web. |
 | [**Codeartz Skills**](https://github.com/hanjeahwan/codeartz-skills) | Reusable Agent Skills for unclear intent, mixed requirements, missing project knowledge, unreliable instruction manuals, and feedback that should improve future decisions. |
 | [**Codeartz Illustrations**](https://github.com/hanjeahwan/codeartz-illustrations) | A Codeartz AI Cat illustration skill for turning Chinese articles, workflows, and ideas into clean hand-drawn visual explanations. |
 | [**Green Energy City**](https://github.com/hanjeahwan/green-energy-city) | An interactive 3D energy-operations cockpit built with React, TypeScript, and Three.js, with explicit layout contracts and automated spatial verification. |
